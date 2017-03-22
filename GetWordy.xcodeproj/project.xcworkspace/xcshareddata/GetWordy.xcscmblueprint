@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F69EDA82E16F18B604466F00AD7B5A1224053E12",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F69EDA82E16F18B604466F00AD7B5A1224053E12" : 9223372036854775807,
+    "373A8400758209E4366808724FABE6CB2F06E650" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D278EBA9-E5BA-48C6-8465-A423345E31E9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F69EDA82E16F18B604466F00AD7B5A1224053E12" : "GetWordy\/",
+    "373A8400758209E4366808724FABE6CB2F06E650" : "get-wordy\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GetWordy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GetWordy.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jipmoon\/get-wordy.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "373A8400758209E4366808724FABE6CB2F06E650"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/leomoondev\/GetWordy.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F69EDA82E16F18B604466F00AD7B5A1224053E12"
+    }
+  ]
+}
